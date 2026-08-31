@@ -2,6 +2,10 @@
 
 A bespoke, framework-free HTML template for digital agencies and web design studios. Deep purple and neon pink on a dark surface — built to look like nothing else in the template universe.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design Distinction
 
 **Color System:** Deep purple `#1A0A3E` meets violet `#7C3AED` and neon pink `#EC4899` on a near-black surface `#0F0A1A`. Every accent glows. Every gradient shifts.
